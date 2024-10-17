@@ -1,0 +1,22 @@
+/* .col {
+  background-color: aqua;
+  padding: 10%;
+  border: 2px solid black;
+  margin: 5px;
+} */
+.container {
+  background-color: plum;
+  border: 2px solid black;
+}
+.row {
+  background-color: burlywood;
+  border: 2px solid black;
+  /* margin: 5px; */
+}
+.col-4,
+.col-8,
+.col-4 {
+  background-color: blue;
+  border: 2px solid black;
+  /* margin: 5px; */
+}

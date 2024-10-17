@@ -1,0 +1,24 @@
+nav {
+  height: 20%;
+  background-color: plum;
+  padding: 3% 8%;
+  font-size: 35px;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+.jokes {
+  padding: 3% 8%;
+  background-color: peachpuff;
+  text-align: center;
+  font-size: 30px;
+}
+.joke_content {
+  padding: 3% 8%;
+  text-align: center;
+  background-color: lightcoral;
+  height: 400px;
+  color: black;
+  font-size: 25px;
+}
